@@ -1,2 +1,4 @@
 # hello-world
-Hello World Description
+Updated Hello World Description
+## More details
+By Paul Vaartjes
